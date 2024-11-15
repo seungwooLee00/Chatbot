@@ -1,7 +1,6 @@
 from langchain_core.messages import (
   AIMessage, 
   HumanMessage, 
-  SystemMessage,
   BaseMessage,
 )
 from langchain.chains.retrieval import create_retrieval_chain
