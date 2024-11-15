@@ -58,7 +58,7 @@ See the samples directory for example conversations and expected outputs.
 - Ensure the data files are preprocessed and correctly formatted before uploading them into the Data folder.
 - For more advanced usage or integration, consult the codebase documentation.
 
-##Acknowledgments
+## Acknowledgments
 
 - Built using LangChain for retrieval and document processing.
 - Data preprocessing inspired by official Sogang University resources.
