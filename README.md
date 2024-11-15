@@ -29,7 +29,10 @@ from Chatbot.chatbot import Chatbot
 
 async def main():
     chatbot = Chatbot()
-    answer = await chatbot.ainvoke("hi!")
+    answer = await chatbot.ainvoke(
+      query="hi!",
+      session_id="1",
+    )
     print(answer)
 
 asyncio.run(main())
