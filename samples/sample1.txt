@@ -1,0 +1,80 @@
+You: hi im robert. im major in computer science
+Chatbot: Hi Robert! Welcome to the computer science program. If you have any questions about your courses, need advice on resources, or anything else related to university life, feel free to ask. I'm here to help!
+
+---------------------------------------------------------------------------------------
+
+You: i want to be a data science in the future. Suggest some courses for me. 
+Chatbot: To pursue a career in data science, you might consider taking the following courses based on the provided context:
+
+1. **Basic Machine Learning (CSE4130-02)**: This course covers fundamental machine learning techniques and the necessary mathematical foundations. It's a great starting point for understanding core concepts in data science.
+
+2. **Data Mining (CSE5312/CSEG312/AIE5114)**: This course introduces data mining principles, techniques, and applications. It will provide you with hands-on experience in implementing algorithms and using data mining tools.
+
+3. **Pattern Recognition (CSE5416/CSEG416/AIE5102/AIEG102)**: This course covers techniques for classifying and analyzing patterns, which is crucial for data science tasks like image and speech recognition.
+
+These courses will help you build a strong foundation in data science. You might also want to explore courses that involve programming, statistics, and data analysis to further enhance your skills. If you need more information, you can check the course syllabi or speak with your academic advisor.
+
+---------------------------------------------------------------------------------------
+
+You: oh i am fresh man so recommend courses for 1~2 grade
+Chatbot: As a freshman interested in data science, it's important to build a strong foundation in computer science and mathematics. Here are some courses you might consider in your first and second years:
+
+1. **Computer Programming I (CSE2003)**: This course will help you develop programming skills, particularly in C, which is essential for understanding more advanced topics later.
+
+2. **Introduction to AI Programming (COR1010)**: This course will introduce you to programming in Python, which is widely used in data science and AI fields.
+
+3. **Mathematics for Computer Science**: Although not listed in the context, a course in discrete mathematics or calculus is often recommended for computer science students, as it provides the mathematical foundation needed for data science.
+
+4. **Statistics**: A basic statistics course is crucial for data science, as it will help you understand data analysis and interpretation.
+
+These courses will give you a good start on your journey to becoming a data scientist. As you progress, you can look into more specialized courses related to data science. If you need more specific recommendations, consider speaking with your academic advisor.
+
+---------------------------------------------------------------------------------------
+
+You: let me know instructor of data structure course
+Chatbot: The instructor for the Data Structures course is Jungmin So. You can find more information on their [homepage](https://icslsogang.github.io). If you need to contact them, you can email them at jso1@sogang.ac.kr or call 02-705-8481. Their office is located at AS-1013, and office hours are to be determined.
+
+---------------------------------------------------------------------------------------
+
+You: How can I apply for a visa?
+Chatbot: To apply for a Student (D-2) visa, follow these steps:
+
+1. **Request the Standard Admission Letter**: 
+   - New students should contact the International Office at applysogang@sogang.ac.kr.
+   - Returning students should contact the One-stop Service Center at onestop@sogang.ac.kr.
+
+2. **Prepare Required Documents**:
+   - Application Form
+   - Passport Copy
+   - One Photo (3.5cm x 4.5cm, white background, taken within 6 months)
+   - Fee
+   - Standard Admission Letter (either original or copy, depending on embassy/consulate requirements)
+   - Tuberculosis Test Result (only for students from specific countries)
+
+3. **Submit Your Application**: 
+   - Apply for the D-2 visa at the Korean Embassy/Consulate in your country. Make sure to check if any additional documents are required, such as proof of family relations or financial capability.
+
+For more detailed information, or if you have other types of visas, it’s best to contact the Immigration Contact Center at 1345 for assistance.
+
+---------------------------------------------------------------------------------------
+
+You: Can you provide useful information for international students?
+Chatbot: Certainly! Here are some key resources and programs available for international students:
+
+1. **Education Center for International Students**: They offer a range of programs and support to help you adjust to campus life. You can find more information and notices on their [website](http://globaledu.sogang.ac.kr/). For inquiries, you can contact them at +82-2-705-4703~4 or email globaled@sogang.ac.kr.
+
+2. **Counseling Services**: The Sogang Student Counseling Center provides support for various issues, including academic problems, stress, and interpersonal relationships. They offer individual and group counseling in Korean and other media like video and phone calls.
+
+3. **Academic and Career Guidance**:
+   - **1:1 Course Registration Consultation**: Available before each semester in Korean, English, and Chinese.
+   - **Academic Guidance Consultation**: Offers 1:1 or group consultations for adapting to university life and concerns about majors or curriculum.
+   - **Workshops and Competitions**: Participate in events like the "Global Albatross Self Roadmap Design" competition and workshops for exploring interests and career goals.
+
+4. **Visa and Immigration Information**: It's crucial to regularly check the [International Office's website](http://goabroad.sogang.ac.kr) for important announcements regarding visas, insurance, and employment opportunities.
+
+These resources are designed to help you succeed academically and personally during your time at the university. If you have specific questions or need further assistance, don't hesitate to reach out to the relevant offices.
+
+---------------------------------------------------------------------------------------
+
+You: do you remember my major and interests?
+Chatbot: Yes, you mentioned that you are majoring in computer science and are interested in pursuing a career in data science. If you have any more questions or need further guidance related to your major or interests, feel free to ask!

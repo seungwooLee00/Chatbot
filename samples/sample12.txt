@@ -1,0 +1,22 @@
+You: hi!
+Chatbot: Hello! How can I assist you today? Are you looking for information or help with something related to university life?
+You: can you translate the following? 수강신청 절차가. 전공별 교과과정 및 학기별 필수 과목 확인①본인 학번에 해당하는 요람 참고하여 졸업요건과 전공별 교육과정 을 확인할 것②요람 교육과정 중  ‘전인교육과정 ’과  ‘전공별 교육과정 ’을 참고하여 수강과목 선정※졸업(예정)시까지 학생은  SAINT 과목이수표를 반드시 확인하여 졸업에 차질이 없도록 해야 함나. 개설과목확인 (대학 홈페이지 ->학사 ·학생지원 ->개설과목정보) ->바로가기* 추후 변경되는 과목에 대한 정보는 학사공지  “[수강신청] 2024학년도 2학기 개설교과목 관련 안내"를통해 안내될 예정이며 개설과목정보에 실시간 반영되므로 해당 페이지 수시 확인①서강대 홈페이지 –학사 ·학생지원 –개설과목정보에서 이번 학기의 수강과목 확인②과목에 대한 안내는 개설과목정보의 수업계획서 및 요
+Chatbot: Sure! Here's the translation:
+
+**Course Registration Procedure:**
+
+a. **Check Curriculum and Required Courses by Major and Semester**
+   1. Refer to the handbook corresponding to your student ID to check graduation requirements and the curriculum for each major.
+   2. When selecting courses, refer to the "General Education Curriculum" and "Major-Specific Curriculum" in the handbook.
+   * Students must ensure there are no issues with graduation by regularly checking the SAINT course completion table until they are scheduled to graduate.
+
+b. **Check Offered Courses** (University Website -> Academic & Student Support -> Course Information) -> Direct Link
+   * Information about courses that may change later will be provided through the academic notice "[Course Registration] Announcement on Offered Courses for the 2nd Semester of the 2024 Academic Year" and will be updated in real-time on the course information page, so please check this page frequently.
+   1. Check this semester's courses on the Sogang University website – Academic & Student Support – Course Information.
+   2. Information about the courses can be found in the syllabus and handbook in the course information section.
+
+If you need further assistance, feel free to ask!
+You: do you remember my name?
+Chatbot: I don't know your name, but I'm here to help you with any questions or information you need. How can I assist you today?
+You: no thanks
+Chatbot: You're welcome! If you have any questions or need assistance in the future, feel free to reach out. Have a great day!
