@@ -3,7 +3,6 @@ from langchain_core.documents.base import Document
 from langchain_core.output_parsers import BaseOutputParser
 from langchain_core.prompts import PromptTemplate
 from langchain.retrievers.multi_query import MultiQueryRetriever
-from langchain_community.document_transformers import LongContextReorder
 from langchain_chroma import Chroma
 from langchain.retrievers.parent_document_retriever import ParentDocumentRetriever
 from langchain.storage import InMemoryStore
@@ -22,17 +21,15 @@ class Retriever:
     self.llm = model
     docs = self._load(data_path)
     self.retriever = self._init_retriever(docs)
-    self.reordering = LongContextReorder()
     
   def get(self):
     return self.retriever
     
   async def ainvoke(self, query):
     docs = await self.retriever.ainvoke(query)
-    reordered = await self.reordering.atransform_documents(docs)
-    for d in reordered:
+    for d in docs:
       logger.debug(f"{d}")
-    return reordered
+    return docs
   
   def _init_retriever(self, docs: List[Document]) -> Runnable:
     logger.debug("start to create retriever")
