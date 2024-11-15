@@ -15,10 +15,23 @@ This chatbot is designed to assist international students at Sogang University, 
    ```bash
    pip install -r requirements.txt
 2. **Upload Data**: Prepare and upload the necessary data into the Data folder. This includes:
-  - Course Information: Extracted from the Sogang SAINT system.
-  - Major Information: Detailed information about the CSE department.
-  - Guides from Sogang International Office: Resources for international students.
+  - Course Information: Extracted from the Sogang SAINT system. (https://saint.sogang.ac.kr)
+  - Major Information: Detailed information about the CSE department. (https://cs.sogang.ac.kr/cs/index_new.html)
+  - Guides from Sogang International Office: Resources for international students. (http://oia.sogang.ac.kr/enter/html/main/main.asp)
+  - All data should be placed under the Data directory. Process the data into formats like JSON, Markdown (.md), or PDF.
   Process the data into formats like JSON, Markdown (.md), or PDF.
+3. **Get API keys**:
+  - get openai api key at https://openai.com/index/openai-api/
+  - get portkey api key at https://portkey.ai
+  - make ```config.json``` file like follow
+    ```json
+    {
+      "API_KEYS": {
+        "OPENAI": "",
+        "PORTKEY_API_KEY": "",
+      }
+    }
+    ```
 
 ## Usage
 
@@ -44,3 +57,8 @@ See the samples directory for example conversations and expected outputs.
 ## Additional Notes
 - Ensure the data files are preprocessed and correctly formatted before uploading them into the Data folder.
 - For more advanced usage or integration, consult the codebase documentation.
+
+##Acknowledgments
+
+- Built using LangChain for retrieval and document processing.
+- Data preprocessing inspired by official Sogang University resources.
